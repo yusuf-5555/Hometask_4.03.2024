@@ -12,3 +12,4 @@ C:\Users\Yusuf\Desktop\C# Course\week3\day5\HomeTask\Task2\obj\Debug\net8.0\refi
 C:\Users\Yusuf\Desktop\C# Course\week3\day5\HomeTask\Task2\obj\Debug\net8.0\Task2.pdb
 C:\Users\Yusuf\Desktop\C# Course\week3\day5\HomeTask\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
 C:\Users\Yusuf\Desktop\C# Course\week3\day5\HomeTask\Task2\obj\Debug\net8.0\ref\Task2.dll
+C:\Users\Yusuf\Desktop\C# Course\week3\day5\HomeTask\Task2\obj\Debug\net8.0\Task2.sourcelink.json
